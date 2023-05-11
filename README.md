@@ -2,8 +2,11 @@
 
 😄 Pronouns: she/her
 
+
 🎨 I’ve been working as a UI/UX Designer and Product Designer since 2018 in Campinas - SP;
+
 💻 Currently in the 11th semester of Computer Science at the University of Campinas (UNICAMP);
+
 🍎 Recently graduated from the Apple Developer Academy at the Eldorado Research Institute;
 
 I strongly believe in the power of technology and human centered design, together, to improve people's lives. And that’s what I keep in mind as I fall more and more in love with what I do!
