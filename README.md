@@ -1,11 +1,11 @@
 ## 👋 Hi there
 
-😄   Pronouns: she/her
+😄   Pronouns: she/her  
+❣️   [Behance.net/cmls](https://www.behance.net/cmls)
 
 🎨   I’ve been working as a UI/UX Designer and Product Designer since 2018 in Campinas - SP;  
 💻   Currently in the 11th semester of Computer Science at the University of Campinas (UNICAMP);  
 🍎   Recently graduated from the Apple Developer Academy at the Eldorado Research Institute;  
-❣️   [Behance.net/cmls](https://www.behance.net/cmls)
 
 I strongly believe in the power of technology and human centered design, together, to improve people's lives. And that’s what I keep in mind as I fall more and more in love with what I do!
 My passions in the field are design for accessibility and inclusion, graphic design, frame-by-frame animation and 3D modeling.
